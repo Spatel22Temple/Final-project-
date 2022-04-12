@@ -2,15 +2,14 @@
 
 #### Your name
 
-TODO
+Shivam Patel
 
 #### Your section leader's name
 
-TODO
+Andrew Rosen
 
 #### Project title
-
-TODO
+Mar0s
 
 ***
 
@@ -18,12 +17,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I have done almost everything. The whole code is written, just need to fix some of the math that is used.
 
 #### What have you not done for your project yet?
 
-TODO
+I have not added the part where the user can see what the macros are.
 
 #### What problems, if any, have you encountered?
 
-TODO
+A big part of the project is giving individual users specific macros for what they consume. I am sort of understanding it, but I am having trouble with it. It is a part of the project that may not make it, but I am trying my best.
